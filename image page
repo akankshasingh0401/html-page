@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<META CHARSET='UTF-8'>
+<TITLE> TABLE</TITLE>
+</HEAD>
+<BODY>
+<h1> My Info</h1>
+<p>My name is AKANKSHA SINGH<br>I am available for hire<br>My hour old price was 640 and the new price is $30<br>Visit my website from this link.<a href="http
+://www.overleaf.com/">click here</a></p>
+
+<h2>Here is some of my clients</h2>
+<span>
+<img src="a1.jpg" height="200px" width="400px"></span>
+<span>
+<img src="a2.jpg" height="200px" width="400px"></span>
+<span>
+<img src="a3.jpg" height="200px" width="400px"></span>
+
+
+<h2>My Skills</h2>
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascipt</li>
+ </ul>
+<ul type='circle'>
+  <li >React</li>
+  <li >Angular</li>
+  <li >PHP</li>
+ </ul>
+<ol>
+   <li value='4'>V4.0</li>
+   <li  value='4'>V5.0</li>
+   <li  value='4'>V6.0</li>
+   <li  value='4'>V7.0</li>
+   <li  value='4'>V8.0</li>
+</ol>
+<ul>
+<li>Svelte</li>
+<li>Python</li>
+</ul>
+</body>
+</html>
